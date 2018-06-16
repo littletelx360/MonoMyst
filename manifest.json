@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "/media/Files/Work/MonoMyst/MonoMyst/docs",
+  "source_base_path": "/home/travis/build/CodeMyst/MonoMyst/docs",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.Camera.html",
-          "hash": "R3oY3u2C4B36EIiVCLAAHQ=="
+          "hash": "9pumJYeeWbjhq5QL2EFugA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.ComponentSystem.html",
-          "hash": "ULqILvV9Sw1q98egd3DLaA=="
+          "hash": "ulTNGwq4vTG7ugS27ed/zg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Components.SpriteComponent.html",
-          "hash": "lC8D4OtK1Qnllx1cKOj2JA=="
+          "hash": "+yEDbU0X2pkqbpRNGN8kuw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Components.TransformComponent.html",
-          "hash": "v7DfzvJCkhn6VnrKkV7Dgw=="
+          "hash": "AOd/mPxs/paO1ro3CTbRRg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -60,7 +60,7 @@
           "hash": "wGotwyTyaYijyxWM2r5AVQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Entity.html",
-          "hash": "SZ8zxYxwtunfP1ekl2DyQg=="
+          "hash": "Po+/RKqdhQk1nA4Avx22Dw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.EntityChangedDelegate.html",
-          "hash": "pOBf29SGoOaRJ5W6XDkVDw=="
+          "hash": "zq4ia3dz0mSwyQzXN/FrOg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.EntityPool.html",
-          "hash": "7r2yx8ArnULzG+Ofmn+fyg=="
+          "hash": "VCwW/mW/9n8Xzf38Xo3ReQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -105,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Extensions.html",
-          "hash": "eFgjIbld6qfnPwnZdlopQQ=="
+          "hash": "XqxE4lvuH062G3emS5vWog=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -117,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.IComponent.html",
-          "hash": "HuR4uOj7MkHtXxaCRmhOjQ=="
+          "hash": "kEWHxGpVw6fh3kMiZVB6TA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -129,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Scene.html",
-          "hash": "CkNAVAtQ+D6X6fKMLjTpnQ=="
+          "hash": "FOjD2apVY/X3n8L522rGZA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.html",
-          "hash": "Q+/3kMAVtb5jy1EvxiuY/w=="
+          "hash": "le6w1EcfzsG6l+cePlxGrg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -156,7 +156,7 @@
           "hash": "uvNsDyMvtOehEWpoeraFJg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -168,7 +168,7 @@
           "hash": "Xg2p/asvylAppp+2THYXuQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.Graphics.GraphicUtilities.html",
-          "hash": "y3a5q7xBycOweNo3UlmirA=="
+          "hash": "CG000mJkznnlnrlcitFpug=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -192,7 +192,7 @@
           "hash": "SERi64gcWJoyC2ScadG/vg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -201,10 +201,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.MColors.html",
-          "hash": "vlrRXMNHGFCJnREqCMWDvg=="
+          "hash": "LWP2Hiic9goCAnQaJx+JPg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -213,10 +213,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.MGame.html",
-          "hash": "0fSVJJwCVHXxQCODfrqVvQ=="
+          "hash": "TUGdBKuCqyX3xtED0nN8bA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -225,10 +225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.MObject.html",
-          "hash": "Ie93h+dAf2bxLp8jtEHskA=="
+          "hash": "Pq6N+uIUPVE2fhcRm3OtBA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -237,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Canvas.html",
-          "hash": "Y23XWIbJRhHfE5CuoHoI8Q=="
+          "hash": "lIgJNjOR3zxJxff4uQ8Jag=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -249,10 +249,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.HorizontalAlignment.html",
-          "hash": "TVnx3zsxaHwRySjqSOHK4Q=="
+          "hash": "ParcDt8kDpcsgP5hepa99g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -261,10 +261,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.IClickable.html",
-          "hash": "OoCaXdO7suS9EWw26SHgcw=="
+          "hash": "Ys5Lc8xN0pnFyzos8hirnA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -273,10 +273,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Overflow.html",
-          "hash": "pK51h2Nx2+/Nu3ye5jTuvg=="
+          "hash": "UvN8NDlJoeXlH+UWbTwFOQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -285,10 +285,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.TextHorizontalAlignment.html",
-          "hash": "kLfn5pqNEbIDupbikk7hqw=="
+          "hash": "bdOWl8esqAeKLnyLuFRPbQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -297,10 +297,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.TextVerticalAlignment.html",
-          "hash": "OHDq+x1kfKCBKQNmvWgj9w=="
+          "hash": "nprZWO2MpThDDNdpUIlB/A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -309,10 +309,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.TextWrapping.html",
-          "hash": "+Di0s/uhO1gvz8Plbf45uw=="
+          "hash": "9hK1rDYH21JAOMGI/sxySw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -321,10 +321,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Thickness.html",
-          "hash": "0AyyUt0jnTNvfJJ+jQF3Jw=="
+          "hash": "bGS5PX6AHV4wMfv73ZVzGw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -333,10 +333,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.UIHost.html",
-          "hash": "p7SBPkOHr3vKB6fy30AePw=="
+          "hash": "O6Ikl8lOZHfP61d5LktR0Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -345,10 +345,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.VerticalAlignment.html",
-          "hash": "SSmM6egC6ztqSG6ObV2pkQ=="
+          "hash": "dR8xkcyARHJ0mcBBrYY95Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -357,10 +357,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widget.html",
-          "hash": "r97o8HNoXKwJIZWMMAZaLQ=="
+          "hash": "mtS11R0ekv5kM75N6ehk4A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -369,10 +369,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widgets.Button.html",
-          "hash": "WPWChHL/gHpCURPmULvyKA=="
+          "hash": "JltbpeGPHeLN8Zm7mVAhpA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -381,10 +381,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widgets.Panel.html",
-          "hash": "XiA1Fjmq5577LvhmxQARig=="
+          "hash": "7hWST6/7AGg7X0qwuvC+Ew=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -393,10 +393,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widgets.TextBlock.html",
-          "hash": "9ndrZC6z0Cw5+m/VLe0bdA=="
+          "hash": "/zXFgRcl3FiBxGdXDg5gsQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -408,7 +408,7 @@
           "hash": "mE9p+9OEPBjt8RpNYbb18Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -420,7 +420,7 @@
           "hash": "Dl4Y09Ju7CjLnfJ/u86LJw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -429,10 +429,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.XNBContentManager.html",
-          "hash": "TQWLgPF6jhx+oQy1O1Cv8w=="
+          "hash": "W0extyO5SH040YtJKzXTIQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -444,7 +444,7 @@
           "hash": "boegQG8MigWZfIZo5x5C2A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -453,10 +453,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "bwGp99k86DjC6n0kaA8zVw=="
+          "hash": "hW6OTYxCr3H3Px24hPMQ5w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -477,10 +477,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "Ub50etqp461WAxE+w/YacA=="
+          "hash": "rtFkzkb+gPW0rBSAse//UQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -501,10 +501,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "wXmm5BuSa6ZX3OvX1iilFw=="
+          "hash": "Zd8S7sEZTYDTM6G9EnW0fg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -523,29 +523,30 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build"
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
         "incrementalPhase": "postProcessing"
       },
       "processors": {}
