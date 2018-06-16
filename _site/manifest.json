@@ -1,0 +1,560 @@
+{
+  "homepages": [],
+  "source_base_path": "/media/Files/Work/MonoMyst/MonoMyst/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.Camera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.Camera.html",
+          "hash": "R3oY3u2C4B36EIiVCLAAHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.ComponentSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.ComponentSystem.html",
+          "hash": "ULqILvV9Sw1q98egd3DLaA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Components.SpriteComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Components.SpriteComponent.html",
+          "hash": "lC8D4OtK1Qnllx1cKOj2JA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Components.TransformComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Components.TransformComponent.html",
+          "hash": "v7DfzvJCkhn6VnrKkV7Dgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Components.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Components.html",
+          "hash": "wGotwyTyaYijyxWM2r5AVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Entity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Entity.html",
+          "hash": "SZ8zxYxwtunfP1ekl2DyQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.EntityChangedDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.EntityChangedDelegate.html",
+          "hash": "pOBf29SGoOaRJ5W6XDkVDw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.EntityPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.EntityPool.html",
+          "hash": "7r2yx8ArnULzG+Ofmn+fyg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Extensions.html",
+          "hash": "eFgjIbld6qfnPwnZdlopQQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.IComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.IComponent.html",
+          "hash": "HuR4uOj7MkHtXxaCRmhOjQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Scene.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Scene.html",
+          "hash": "CkNAVAtQ+D6X6fKMLjTpnQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.html",
+          "hash": "Q+/3kMAVtb5jy1EvxiuY/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Systems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Systems.html",
+          "hash": "uvNsDyMvtOehEWpoeraFJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.html",
+          "hash": "Xg2p/asvylAppp+2THYXuQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.Graphics.GraphicUtilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.Graphics.GraphicUtilities.html",
+          "hash": "y3a5q7xBycOweNo3UlmirA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.Graphics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.Graphics.html",
+          "hash": "SERi64gcWJoyC2ScadG/vg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.MColors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.MColors.html",
+          "hash": "vlrRXMNHGFCJnREqCMWDvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.MGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.MGame.html",
+          "hash": "0fSVJJwCVHXxQCODfrqVvQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.MObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.MObject.html",
+          "hash": "Ie93h+dAf2bxLp8jtEHskA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Canvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Canvas.html",
+          "hash": "Y23XWIbJRhHfE5CuoHoI8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.HorizontalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.HorizontalAlignment.html",
+          "hash": "TVnx3zsxaHwRySjqSOHK4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.IClickable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.IClickable.html",
+          "hash": "OoCaXdO7suS9EWw26SHgcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Overflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Overflow.html",
+          "hash": "pK51h2Nx2+/Nu3ye5jTuvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.TextHorizontalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.TextHorizontalAlignment.html",
+          "hash": "kLfn5pqNEbIDupbikk7hqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.TextVerticalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.TextVerticalAlignment.html",
+          "hash": "OHDq+x1kfKCBKQNmvWgj9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.TextWrapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.TextWrapping.html",
+          "hash": "+Di0s/uhO1gvz8Plbf45uw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Thickness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Thickness.html",
+          "hash": "0AyyUt0jnTNvfJJ+jQF3Jw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.UIHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.UIHost.html",
+          "hash": "p7SBPkOHr3vKB6fy30AePw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.VerticalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.VerticalAlignment.html",
+          "hash": "SSmM6egC6ztqSG6ObV2pkQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Widget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Widget.html",
+          "hash": "r97o8HNoXKwJIZWMMAZaLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Widgets.Button.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Widgets.Button.html",
+          "hash": "WPWChHL/gHpCURPmULvyKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Widgets.Panel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Widgets.Panel.html",
+          "hash": "XiA1Fjmq5577LvhmxQARig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Widgets.TextBlock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Widgets.TextBlock.html",
+          "hash": "9ndrZC6z0Cw5+m/VLe0bdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.Widgets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.Widgets.html",
+          "hash": "mE9p+9OEPBjt8RpNYbb18Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.UI.html",
+          "hash": "Dl4Y09Ju7CjLnfJ/u86LJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.XNBContentManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.XNBContentManager.html",
+          "hash": "TQWLgPF6jhx+oQy1O1Cv8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.html",
+          "hash": "boegQG8MigWZfIZo5x5C2A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "bwGp99k86DjC6n0kaA8zVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "5wgyE/m3DRVae764sp6H/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "Ub50etqp461WAxE+w/YacA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "wXmm5BuSa6ZX3OvX1iilFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "ob7LqWp4kTNLz+9W4omdTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
