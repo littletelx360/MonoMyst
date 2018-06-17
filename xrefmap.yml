@@ -382,6 +382,22 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Entity.OwnerPool
   nameWithType: Entity.OwnerPool
+- uid: MonoMyst.Engine.ECS.Entity.RemoveComponent*
+  name: RemoveComponent
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_RemoveComponent_
+  commentId: Overload:MonoMyst.Engine.ECS.Entity.RemoveComponent
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Entity.RemoveComponent
+  nameWithType: Entity.RemoveComponent
+- uid: MonoMyst.Engine.ECS.Entity.RemoveComponent``1
+  name: RemoveComponent<T>()
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_RemoveComponent__1
+  commentId: M:MonoMyst.Engine.ECS.Entity.RemoveComponent``1
+  name.vb: RemoveComponent(Of T)()
+  fullName: MonoMyst.Engine.ECS.Entity.RemoveComponent<T>()
+  fullName.vb: MonoMyst.Engine.ECS.Entity.RemoveComponent(Of T)()
+  nameWithType: Entity.RemoveComponent<T>()
+  nameWithType.vb: Entity.RemoveComponent(Of T)()
 - uid: MonoMyst.Engine.ECS.EntityChangedDelegate
   name: EntityChangedDelegate
   href: api/MonoMyst.Engine.ECS.EntityChangedDelegate.html
