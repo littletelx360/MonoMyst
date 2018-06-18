@@ -311,6 +311,19 @@ references:
   fullName.vb: MonoMyst.Engine.ECS.Entity.AddComponent(Of T)()
   nameWithType: Entity.AddComponent<T>()
   nameWithType.vb: Entity.AddComponent(Of T)()
+- uid: MonoMyst.Engine.ECS.Entity.Destroy
+  name: Destroy()
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_Destroy
+  commentId: M:MonoMyst.Engine.ECS.Entity.Destroy
+  fullName: MonoMyst.Engine.ECS.Entity.Destroy()
+  nameWithType: Entity.Destroy()
+- uid: MonoMyst.Engine.ECS.Entity.Destroy*
+  name: Destroy
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_Destroy_
+  commentId: Overload:MonoMyst.Engine.ECS.Entity.Destroy
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Entity.Destroy
+  nameWithType: Entity.Destroy
 - uid: MonoMyst.Engine.ECS.Entity.GetComponent*
   name: GetComponent
   href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_GetComponent_
@@ -382,6 +395,12 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Entity.OwnerPool
   nameWithType: Entity.OwnerPool
+- uid: MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.IComponent)
+  name: RemoveComponent(IComponent)
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_RemoveComponent_MonoMyst_Engine_ECS_IComponent_
+  commentId: M:MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.IComponent)
+  fullName: MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.IComponent)
+  nameWithType: Entity.RemoveComponent(IComponent)
 - uid: MonoMyst.Engine.ECS.Entity.RemoveComponent*
   name: RemoveComponent
   href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_RemoveComponent_
@@ -473,6 +492,19 @@ references:
   commentId: E:MonoMyst.Engine.ECS.EntityPool.OnEntityRemoved
   fullName: MonoMyst.Engine.ECS.EntityPool.OnEntityRemoved
   nameWithType: EntityPool.OnEntityRemoved
+- uid: MonoMyst.Engine.ECS.EntityPool.Remove(MonoMyst.Engine.ECS.Entity)
+  name: Remove(Entity)
+  href: api/MonoMyst.Engine.ECS.EntityPool.html#MonoMyst_Engine_ECS_EntityPool_Remove_MonoMyst_Engine_ECS_Entity_
+  commentId: M:MonoMyst.Engine.ECS.EntityPool.Remove(MonoMyst.Engine.ECS.Entity)
+  fullName: MonoMyst.Engine.ECS.EntityPool.Remove(MonoMyst.Engine.ECS.Entity)
+  nameWithType: EntityPool.Remove(Entity)
+- uid: MonoMyst.Engine.ECS.EntityPool.Remove*
+  name: Remove
+  href: api/MonoMyst.Engine.ECS.EntityPool.html#MonoMyst_Engine_ECS_EntityPool_Remove_
+  commentId: Overload:MonoMyst.Engine.ECS.EntityPool.Remove
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.EntityPool.Remove
+  nameWithType: EntityPool.Remove
 - uid: MonoMyst.Engine.ECS.EntityPool.System#Collections#IEnumerable#GetEnumerator
   name: IEnumerable.GetEnumerator()
   href: api/MonoMyst.Engine.ECS.EntityPool.html#MonoMyst_Engine_ECS_EntityPool_System_Collections_IEnumerable_GetEnumerator
