@@ -340,6 +340,22 @@ references:
   fullName.vb: MonoMyst.Engine.ECS.Entity.GetComponent(Of T)()
   nameWithType: Entity.GetComponent<T>()
   nameWithType.vb: Entity.GetComponent(Of T)()
+- uid: MonoMyst.Engine.ECS.Entity.GetComponents*
+  name: GetComponents
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_GetComponents_
+  commentId: Overload:MonoMyst.Engine.ECS.Entity.GetComponents
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Entity.GetComponents
+  nameWithType: Entity.GetComponents
+- uid: MonoMyst.Engine.ECS.Entity.GetComponents``1
+  name: GetComponents<T>()
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_GetComponents__1
+  commentId: M:MonoMyst.Engine.ECS.Entity.GetComponents``1
+  name.vb: GetComponents(Of T)()
+  fullName: MonoMyst.Engine.ECS.Entity.GetComponents<T>()
+  fullName.vb: MonoMyst.Engine.ECS.Entity.GetComponents(Of T)()
+  nameWithType: Entity.GetComponents<T>()
+  nameWithType.vb: Entity.GetComponents(Of T)()
 - uid: MonoMyst.Engine.ECS.Entity.HasComponent(System.Type)
   name: HasComponent(Type)
   href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_HasComponent_System_Type_
