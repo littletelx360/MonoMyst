@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.Camera.html",
-          "hash": "CftrBgK6cKEMzAGCf4iSvw=="
+          "hash": "SqNDwvBNcd7ZeymJNcM4UA=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,19 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.ComponentSystem.html",
-          "hash": "deQG5OJ1+J5Zo3VBrP+Mdg=="
+          "hash": "6bBCVgJ+SApd4bv3F4b6Qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html",
+          "hash": "wL+lVzGifDoInDpVYa5kdg=="
         }
       },
       "is_incremental": false,
@@ -33,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Components.SpriteComponent.html",
-          "hash": "jJ/SqgJMBCeqrvhxf1GvgA=="
+          "hash": "fr2EM8rUH1hI9UzLfmBqVQ=="
         }
       },
       "is_incremental": false,
@@ -45,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Components.TransformComponent.html",
-          "hash": "9eOpMIfyH80l1K6c+JFtBg=="
+          "hash": "YTCKHV7WmtX/+o1UTFbxaw=="
         }
       },
       "is_incremental": false,
@@ -57,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Components.html",
-          "hash": "B8rpHcz2GsD4u/tc4ESdhg=="
+          "hash": "DgZxZ5i3DiUC5JFHeTQ8jw=="
         }
       },
       "is_incremental": false,
@@ -69,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Entity.html",
-          "hash": "/R1CoFOg4XyCsJfgraN28Q=="
+          "hash": "9Ee9IhINJhKZY14QztinSg=="
         }
       },
       "is_incremental": false,
@@ -81,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.EntityChangedDelegate.html",
-          "hash": "3JNY1evokttZVmzfCbTl5g=="
+          "hash": "/Z8P8rbZf8eJjRFBVDlkXA=="
         }
       },
       "is_incremental": false,
@@ -93,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.EntityPool.html",
-          "hash": "v3stlvcinNt6frQEdQErAQ=="
+          "hash": "0Kc6pMWta9tzXeKbEcsqiQ=="
         }
       },
       "is_incremental": false,
@@ -105,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Extensions.html",
-          "hash": "Wx9UM9cmzUoWcQFHw3g2UA=="
+          "hash": "Ih7hZ4cRVXnQl8dz5su/QQ=="
         }
       },
       "is_incremental": false,
@@ -117,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.IComponent.html",
-          "hash": "Op1hPD4cyh1QPOl1SWKaSQ=="
+          "hash": "C7+xvc3WaWZog8VXRjaFGg=="
         }
       },
       "is_incremental": false,
@@ -129,7 +141,19 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Scene.html",
-          "hash": "DjgO/+HuWvdswld/lK6/Ag=="
+          "hash": "GcJaBVEy04donojlveuyKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html",
+          "hash": "FfxFBvDDFeBYxCUs5Gx6SQ=="
         }
       },
       "is_incremental": false,
@@ -141,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.html",
-          "hash": "lw0Qcw5iPgjEMdZ+av4pqQ=="
+          "hash": "jQKbqvgK/BNg0Bquxr5eZw=="
         }
       },
       "is_incremental": false,
@@ -153,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.ECS.Systems.html",
-          "hash": "0ovv5YdJ02z6H2M1+4GgaQ=="
+          "hash": "mc1ONi/r+UrvtsXsK+/cwQ=="
         }
       },
       "is_incremental": false,
@@ -177,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.Graphics.GraphicUtilities.html",
-          "hash": "MVdzLVX6SalUmNAsf7L7XA=="
+          "hash": "C/z97zLehzFLFol8Q8Kmsg=="
         }
       },
       "is_incremental": false,
@@ -201,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.MColors.html",
-          "hash": "xhbJpWiYApSxt790v6ncxg=="
+          "hash": "iTbqiMwLU2YiKncTMNXtqA=="
         }
       },
       "is_incremental": false,
@@ -213,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.MGame.html",
-          "hash": "XX4p24UPPVbdVbsxI4l1KQ=="
+          "hash": "zqubSM9Z9f6vvWUpOzEX3g=="
         }
       },
       "is_incremental": false,
@@ -225,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.MObject.html",
-          "hash": "W+S1UP/K884b+pyRw987mQ=="
+          "hash": "zcTNd+Q8j2nuPu9SOUbUmQ=="
         }
       },
       "is_incremental": false,
@@ -237,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Canvas.html",
-          "hash": "21oMsJYI9/Fec52T3077KA=="
+          "hash": "h1yEnPyYpBwwFyHUykoLcQ=="
         }
       },
       "is_incremental": false,
@@ -249,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.HorizontalAlignment.html",
-          "hash": "ndmzD36C8MOcg6gN7+HmLw=="
+          "hash": "3+2OJ6pBcK1kUTSFo3VgVQ=="
         }
       },
       "is_incremental": false,
@@ -261,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.IClickable.html",
-          "hash": "4GYvukFMTDpB8kNf8H1j5A=="
+          "hash": "hNFNfMmlGLU8Ow38pqqk0w=="
         }
       },
       "is_incremental": false,
@@ -273,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Overflow.html",
-          "hash": "ZUzsBFfzKUDKOxkR/o0lgQ=="
+          "hash": "Q6ZhsrkWOJMwc6rDpQRJaQ=="
         }
       },
       "is_incremental": false,
@@ -285,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.TextHorizontalAlignment.html",
-          "hash": "zSokFAdLWJ/jTcpoqpO+eQ=="
+          "hash": "r5kl5kRqccLz74QEz7s1Fg=="
         }
       },
       "is_incremental": false,
@@ -297,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.TextVerticalAlignment.html",
-          "hash": "snQ22gWJUd3Woo1jKDqzcA=="
+          "hash": "aqtQee1zhugQ7PqU2dhfCQ=="
         }
       },
       "is_incremental": false,
@@ -309,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.TextWrapping.html",
-          "hash": "AzLXTLT7cHk9w7xnCW5k5A=="
+          "hash": "LvOh4pRPjvAvR6YYtoGtBQ=="
         }
       },
       "is_incremental": false,
@@ -321,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Thickness.html",
-          "hash": "ooxTOzsQ89XGARdfRWgISQ=="
+          "hash": "TFmbqztbm537fvsSI/orjg=="
         }
       },
       "is_incremental": false,
@@ -333,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.UIHost.html",
-          "hash": "apRtBkYIQcSDNpo9tOV19g=="
+          "hash": "/MIjXwiELx+RO0U+89+Xuw=="
         }
       },
       "is_incremental": false,
@@ -345,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.VerticalAlignment.html",
-          "hash": "JIHKqzbEIH8t1i+ndUJ3Dw=="
+          "hash": "RzDhsxyL/Rt7BpXR2t1xhQ=="
         }
       },
       "is_incremental": false,
@@ -357,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widget.html",
-          "hash": "r7NJGWoG5JyO2lUQtdf5rw=="
+          "hash": "uPSHyxSs89fcaDbXm+FL7A=="
         }
       },
       "is_incremental": false,
@@ -369,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widgets.Button.html",
-          "hash": "UJG6jBgobSQSNKqdg5uDzg=="
+          "hash": "jR4lHaTmQJP4IlrxhBfrYQ=="
         }
       },
       "is_incremental": false,
@@ -381,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widgets.Panel.html",
-          "hash": "pM9wWTy4qU/QE5wkeNBhGg=="
+          "hash": "Pc7QIvSxqOj4gN8pVslnpg=="
         }
       },
       "is_incremental": false,
@@ -393,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.UI.Widgets.TextBlock.html",
-          "hash": "G2yReGUWDmisQfcsKYRmbA=="
+          "hash": "eDkJ5HJCHwuahvZhLScegQ=="
         }
       },
       "is_incremental": false,
@@ -429,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonoMyst.Engine.XNBContentManager.html",
-          "hash": "bhCOuhVI7zXCJNmGFHeu6A=="
+          "hash": "EqorMpxATn1I4unGHXOCEQ=="
         }
       },
       "is_incremental": false,
@@ -453,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "FUnZQGHYl1nA1VDWQI/k1w=="
+          "hash": "8VNjO3yG1cAr9gUS914riA=="
         }
       },
       "is_incremental": false,
@@ -465,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "5wgyE/m3DRVae764sp6H/A=="
+          "hash": "u3wcUpx3SyqXOKODUf/7Zw=="
         }
       },
       "is_incremental": false,
@@ -477,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/ECS/Getting_Started_With_ECS.html",
-          "hash": "UILn5kLkjEZxB/Ouu8Tjhw=="
+          "hash": "qU81z8BftV57WwtY3F4i3g=="
         }
       },
       "is_incremental": false,
@@ -501,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "wXzmpJzDsAQDxEUlRB9sPg=="
+          "hash": "8m7kX+NXeRX/YU+FNMKCRw=="
         }
       },
       "is_incremental": false,

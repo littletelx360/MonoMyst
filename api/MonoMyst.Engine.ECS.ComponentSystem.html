@@ -81,6 +81,7 @@
     <div class="level0"><span class="xref">System.Object</span></div>
     <div class="level1"><a class="xref" href="MonoMyst.Engine.MObject.html">MObject</a></div>
     <div class="level2"><span class="xref">ComponentSystem</span></div>
+      <div class="level3"><a class="xref" href="MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html">AnimatedSpriteRenderSystem</a></div>
       <div class="level3"><a class="xref" href="MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.html">SpriteRenderSystem</a></div>
   </div>
   <div class="inheritedMembers">
@@ -117,10 +118,10 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/5b57df7abb672915b2b6ae11e6e13bcf22d22320/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem__ctor_MonoMyst_Engine_ECS_EntityPool_System_Type___.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.%23ctor(MonoMyst.Engine.ECS.EntityPool%2CSystem.Type%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem__ctor_MonoMyst_Engine_ECS_EntityPool_System_Type___.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.%23ctor(MonoMyst.Engine.ECS.EntityPool%2CSystem.Type%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/5b57df7abb672915b2b6ae11e6e13bcf22d22320/MonoMyst.Engine/ECS/ComponentSystem.cs/#L25">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L27">View Source</a>
   </span>
   <a id="MonoMyst_Engine_ECS_ComponentSystem__ctor_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.#ctor*"></a>
   <h4 id="MonoMyst_Engine_ECS_ComponentSystem__ctor_MonoMyst_Engine_ECS_EntityPool_System_Type___" data-uid="MonoMyst.Engine.ECS.ComponentSystem.#ctor(MonoMyst.Engine.ECS.EntityPool,System.Type[])">ComponentSystem(EntityPool, Type[])</h4>
@@ -156,10 +157,40 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/5b57df7abb672915b2b6ae11e6e13bcf22d22320/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Entities.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Entities%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_CompatibleTypes.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/5b57df7abb672915b2b6ae11e6e13bcf22d22320/MonoMyst.Engine/ECS/ComponentSystem.cs/#L23">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L20">View Source</a>
+  </span>
+  <a id="MonoMyst_Engine_ECS_ComponentSystem_CompatibleTypes_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes*"></a>
+  <h4 id="MonoMyst_Engine_ECS_ComponentSystem_CompatibleTypes" data-uid="MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes">CompatibleTypes</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected List&lt;Type&gt; CompatibleTypes { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.List</span>&lt;<span class="xref">System.Type</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Entities.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Entities%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L25">View Source</a>
   </span>
   <a id="MonoMyst_Engine_ECS_ComponentSystem_Entities_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Entities*"></a>
   <h4 id="MonoMyst_Engine_ECS_ComponentSystem_Entities" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Entities">Entities</h4>
@@ -189,10 +220,10 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/5b57df7abb672915b2b6ae11e6e13bcf22d22320/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/5b57df7abb672915b2b6ae11e6e13bcf22d22320/MonoMyst.Engine/ECS/ComponentSystem.cs/#L53">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L55">View Source</a>
   </span>
   <a id="MonoMyst_Engine_ECS_ComponentSystem_Draw_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Draw*"></a>
   <h4 id="MonoMyst_Engine_ECS_ComponentSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)">Draw(SpriteBatch)</h4>
@@ -223,10 +254,48 @@
   <div><a class="xref" href="MonoMyst.Engine.MObject.html#MonoMyst_Engine_MObject_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_">MObject.Draw(SpriteBatch)</a></div>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/5b57df7abb672915b2b6ae11e6e13bcf22d22320/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_GetCompatibleEntities_System_Collections_Generic_IEnumerable_MonoMyst_Engine_ECS_Entity__.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.GetCompatibleEntities(System.Collections.Generic.IEnumerable%7BMonoMyst.Engine.ECS.Entity%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_EntitiesChanged_MonoMyst_Engine_ECS_EntityPool_MonoMyst_Engine_ECS_Entity_.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool%2CMonoMyst.Engine.ECS.Entity)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/5b57df7abb672915b2b6ae11e6e13bcf22d22320/MonoMyst.Engine/ECS/ComponentSystem.cs/#L71">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L62">View Source</a>
+  </span>
+  <a id="MonoMyst_Engine_ECS_ComponentSystem_EntitiesChanged_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged*"></a>
+  <h4 id="MonoMyst_Engine_ECS_ComponentSystem_EntitiesChanged_MonoMyst_Engine_ECS_EntityPool_MonoMyst_Engine_ECS_Entity_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool,MonoMyst.Engine.ECS.Entity)">EntitiesChanged(EntityPool, Entity)</h4>
+  <div class="markdown level1 summary"><p>When entities get changed refresh the entities list again.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected virtual void EntitiesChanged(EntityPool entities, Entity entity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="MonoMyst.Engine.ECS.EntityPool.html">EntityPool</a></td>
+        <td><span class="parametername">entities</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="MonoMyst.Engine.ECS.Entity.html">Entity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_GetCompatibleEntities_System_Collections_Generic_IEnumerable_MonoMyst_Engine_ECS_Entity__.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.GetCompatibleEntities(System.Collections.Generic.IEnumerable%7BMonoMyst.Engine.ECS.Entity%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L73">View Source</a>
   </span>
   <a id="MonoMyst_Engine_ECS_ComponentSystem_GetCompatibleEntities_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.GetCompatibleEntities*"></a>
   <h4 id="MonoMyst_Engine_ECS_ComponentSystem_GetCompatibleEntities_System_Collections_Generic_IEnumerable_MonoMyst_Engine_ECS_Entity__" data-uid="MonoMyst.Engine.ECS.ComponentSystem.GetCompatibleEntities(System.Collections.Generic.IEnumerable{MonoMyst.Engine.ECS.Entity})">GetCompatibleEntities(IEnumerable&lt;Entity&gt;)</h4>
@@ -273,10 +342,10 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/5b57df7abb672915b2b6ae11e6e13bcf22d22320/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Initialize.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Initialize%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Initialize.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Initialize%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/5b57df7abb672915b2b6ae11e6e13bcf22d22320/MonoMyst.Engine/ECS/ComponentSystem.cs/#L45">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L47">View Source</a>
   </span>
   <a id="MonoMyst_Engine_ECS_ComponentSystem_Initialize_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Initialize*"></a>
   <h4 id="MonoMyst_Engine_ECS_ComponentSystem_Initialize" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Initialize">Initialize()</h4>
@@ -290,10 +359,10 @@
   <div><a class="xref" href="MonoMyst.Engine.MObject.html#MonoMyst_Engine_MObject_Initialize">MObject.Initialize()</a></div>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/5b57df7abb672915b2b6ae11e6e13bcf22d22320/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Update_System_Single_.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Update(System.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem_Update_System_Single_.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem.Update(System.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/5b57df7abb672915b2b6ae11e6e13bcf22d22320/MonoMyst.Engine/ECS/ComponentSystem.cs/#L49">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L51">View Source</a>
   </span>
   <a id="MonoMyst_Engine_ECS_ComponentSystem_Update_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Update*"></a>
   <h4 id="MonoMyst_Engine_ECS_ComponentSystem_Update_System_Single_" data-uid="MonoMyst.Engine.ECS.ComponentSystem.Update(System.Single)">Update(Single)</h4>
@@ -330,10 +399,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/CodeMyst/MonoMyst/new/5b57df7abb672915b2b6ae11e6e13bcf22d22320/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/CodeMyst/MonoMyst/new/50f1a64a5819fe210df2397ec50255afa247d7ea/apiSpec/new?filename=MonoMyst_Engine_ECS_ComponentSystem.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.ComponentSystem%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/CodeMyst/MonoMyst/blob/5b57df7abb672915b2b6ae11e6e13bcf22d22320/MonoMyst.Engine/ECS/ComponentSystem.cs/#L16" class="contribution-link">View Source</a>
+                    <a href="https://github.com/CodeMyst/MonoMyst/blob/50f1a64a5819fe210df2397ec50255afa247d7ea/MonoMyst.Engine/ECS/ComponentSystem.cs/#L16" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

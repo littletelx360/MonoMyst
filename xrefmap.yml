@@ -96,6 +96,77 @@ references:
   commentId: N:MonoMyst.Engine.ECS.Components
   fullName: MonoMyst.Engine.ECS.Components
   nameWithType: MonoMyst.Engine.ECS.Components
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent
+  name: AnimatedSpriteComponent
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html
+  commentId: T:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent
+  nameWithType: AnimatedSpriteComponent
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
+  name: Color
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Color
+  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
+  nameWithType: AnimatedSpriteComponent.Color
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color*
+  name: Color
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Color_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
+  nameWithType: AnimatedSpriteComponent.Color
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
+  name: Size
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Size
+  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
+  nameWithType: AnimatedSpriteComponent.Size
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size*
+  name: Size
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Size_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
+  nameWithType: AnimatedSpriteComponent.Size
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
+  name: SpriteSheet
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSheet
+  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
+  nameWithType: AnimatedSpriteComponent.SpriteSheet
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet*
+  name: SpriteSheet
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSheet_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
+  nameWithType: AnimatedSpriteComponent.SpriteSheet
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
+  name: SpriteSize
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSize
+  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
+  nameWithType: AnimatedSpriteComponent.SpriteSize
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize*
+  name: SpriteSize
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSize_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
+  nameWithType: AnimatedSpriteComponent.SpriteSize
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
+  name: TimePerFrame
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_TimePerFrame
+  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
+  nameWithType: AnimatedSpriteComponent.TimePerFrame
+- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame*
+  name: TimePerFrame
+  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_TimePerFrame_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
+  nameWithType: AnimatedSpriteComponent.TimePerFrame
 - uid: MonoMyst.Engine.ECS.Components.SpriteComponent
   name: SpriteComponent
   href: api/MonoMyst.Engine.ECS.Components.SpriteComponent.html
@@ -208,6 +279,19 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.ComponentSystem.ComponentSystem
   nameWithType: ComponentSystem.ComponentSystem
+- uid: MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes
+  name: CompatibleTypes
+  href: api/MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_CompatibleTypes
+  commentId: P:MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes
+  fullName: MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes
+  nameWithType: ComponentSystem.CompatibleTypes
+- uid: MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes*
+  name: CompatibleTypes
+  href: api/MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_CompatibleTypes_
+  commentId: Overload:MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.ComponentSystem.CompatibleTypes
+  nameWithType: ComponentSystem.CompatibleTypes
 - uid: MonoMyst.Engine.ECS.ComponentSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
   name: Draw(SpriteBatch)
   href: api/MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_
@@ -234,6 +318,19 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.ComponentSystem.Entities
   nameWithType: ComponentSystem.Entities
+- uid: MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool,MonoMyst.Engine.ECS.Entity)
+  name: EntitiesChanged(EntityPool, Entity)
+  href: api/MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_EntitiesChanged_MonoMyst_Engine_ECS_EntityPool_MonoMyst_Engine_ECS_Entity_
+  commentId: M:MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool,MonoMyst.Engine.ECS.Entity)
+  fullName: MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool, MonoMyst.Engine.ECS.Entity)
+  nameWithType: ComponentSystem.EntitiesChanged(EntityPool, Entity)
+- uid: MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged*
+  name: EntitiesChanged
+  href: api/MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_EntitiesChanged_
+  commentId: Overload:MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.ComponentSystem.EntitiesChanged
+  nameWithType: ComponentSystem.EntitiesChanged
 - uid: MonoMyst.Engine.ECS.ComponentSystem.GetCompatibleEntities(System.Collections.Generic.IEnumerable{MonoMyst.Engine.ECS.Entity})
   name: GetCompatibleEntities(IEnumerable<Entity>)
   href: api/MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_GetCompatibleEntities_System_Collections_Generic_IEnumerable_MonoMyst_Engine_ECS_Entity__
@@ -569,6 +666,19 @@ references:
   commentId: T:MonoMyst.Engine.ECS.Scene
   fullName: MonoMyst.Engine.ECS.Scene
   nameWithType: Scene
+- uid: MonoMyst.Engine.ECS.Scene.#ctor(MonoMyst.Engine.MGame)
+  name: Scene(MGame)
+  href: api/MonoMyst.Engine.ECS.Scene.html#MonoMyst_Engine_ECS_Scene__ctor_MonoMyst_Engine_MGame_
+  commentId: M:MonoMyst.Engine.ECS.Scene.#ctor(MonoMyst.Engine.MGame)
+  fullName: MonoMyst.Engine.ECS.Scene.Scene(MonoMyst.Engine.MGame)
+  nameWithType: Scene.Scene(MGame)
+- uid: MonoMyst.Engine.ECS.Scene.#ctor*
+  name: Scene
+  href: api/MonoMyst.Engine.ECS.Scene.html#MonoMyst_Engine_ECS_Scene__ctor_
+  commentId: Overload:MonoMyst.Engine.ECS.Scene.#ctor
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Scene.Scene
+  nameWithType: Scene.Scene
 - uid: MonoMyst.Engine.ECS.Scene.ClearColor
   name: ClearColor
   href: api/MonoMyst.Engine.ECS.Scene.html#MonoMyst_Engine_ECS_Scene_ClearColor
@@ -582,6 +692,19 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Scene.ClearColor
   nameWithType: Scene.ClearColor
+- uid: MonoMyst.Engine.ECS.Scene.Content
+  name: Content
+  href: api/MonoMyst.Engine.ECS.Scene.html#MonoMyst_Engine_ECS_Scene_Content
+  commentId: P:MonoMyst.Engine.ECS.Scene.Content
+  fullName: MonoMyst.Engine.ECS.Scene.Content
+  nameWithType: Scene.Content
+- uid: MonoMyst.Engine.ECS.Scene.Content*
+  name: Content
+  href: api/MonoMyst.Engine.ECS.Scene.html#MonoMyst_Engine_ECS_Scene_Content_
+  commentId: Overload:MonoMyst.Engine.ECS.Scene.Content
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Scene.Content
+  nameWithType: Scene.Content
 - uid: MonoMyst.Engine.ECS.Scene.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
   name: Draw(SpriteBatch)
   href: api/MonoMyst.Engine.ECS.Scene.html#MonoMyst_Engine_ECS_Scene_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_
@@ -666,6 +789,64 @@ references:
   commentId: N:MonoMyst.Engine.ECS.Systems
   fullName: MonoMyst.Engine.ECS.Systems
   nameWithType: MonoMyst.Engine.ECS.Systems
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem
+  name: AnimatedSpriteRenderSystem
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html
+  commentId: T:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem
+  nameWithType: AnimatedSpriteRenderSystem
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
+  name: AnimatedSpriteRenderSystem(EntityPool)
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem__ctor_MonoMyst_Engine_ECS_EntityPool_
+  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem(MonoMyst.Engine.ECS.EntityPool)
+  nameWithType: AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem(EntityPool)
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor*
+  name: AnimatedSpriteRenderSystem
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem__ctor_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem
+  nameWithType: AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  name: Draw(SpriteBatch)
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_
+  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  nameWithType: AnimatedSpriteRenderSystem.Draw(SpriteBatch)
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw*
+  name: Draw
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Draw_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw
+  nameWithType: AnimatedSpriteRenderSystem.Draw
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool,MonoMyst.Engine.ECS.Entity)
+  name: EntitiesChanged(EntityPool, Entity)
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_EntitiesChanged_MonoMyst_Engine_ECS_EntityPool_MonoMyst_Engine_ECS_Entity_
+  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool,MonoMyst.Engine.ECS.Entity)
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool, MonoMyst.Engine.ECS.Entity)
+  nameWithType: AnimatedSpriteRenderSystem.EntitiesChanged(EntityPool, Entity)
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged*
+  name: EntitiesChanged
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_EntitiesChanged_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged
+  nameWithType: AnimatedSpriteRenderSystem.EntitiesChanged
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update(System.Single)
+  name: Update(Single)
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Update_System_Single_
+  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update(System.Single)
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update(System.Single)
+  nameWithType: AnimatedSpriteRenderSystem.Update(Single)
+- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update*
+  name: Update
+  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Update_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update
+  nameWithType: AnimatedSpriteRenderSystem.Update
 - uid: MonoMyst.Engine.ECS.Systems.SpriteRenderSystem
   name: SpriteRenderSystem
   href: api/MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.html
