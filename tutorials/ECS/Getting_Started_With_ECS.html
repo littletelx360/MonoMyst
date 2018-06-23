@@ -73,7 +73,7 @@
 <p>Start with making a scene:</p>
 <pre><code class="lang-cs">public class MainScene : Scene
 {
-
+    public MainScene (MGame game) : base (game) { }
 }
 </code></pre>
 <p>To switch to this scene, in your <code>Game</code> class create a new instance of this scene:</p>
@@ -97,6 +97,8 @@
 <p>Entities have no functionality on their own.</p>
 <pre><code class="lang-cs">public class MainScene : Scene
 {
+    public MainScene (MGame game) : base (game) { }
+
     protected override void Initialize ()
     {
         Entity player = new Entity (&quot;Player&quot;);
@@ -147,6 +149,8 @@ player.AddComponent&lt;HealthComponent&gt; ();
 <p>Now you have to instatiate the <code>ComponentSystem</code>. It doesn't matter if you do it after or before adding entities since the system will be notified of all the changes on any of the entities.</p>
 <pre><code class="lang-cs">public class MainScene : Scene
 {
+    public MainScene (MGame game) : base (game) { }
+
     protected override void Initialize ()
     {
         HealthSystem healthSystem = new HealthSystem (Entities);
@@ -164,7 +168,7 @@ player.AddComponent&lt;HealthComponent&gt; ();
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/CodeMyst/MonoMyst/blob/0cabf1893b3f45e6b93373cda1ccfd30eea21e65/docs/tutorials/ECS/Getting_Started_With_ECS.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/CodeMyst/MonoMyst/blob/8b282e424582d4cbe311364990468b1a9848710a/docs/tutorials/ECS/Getting_Started_With_ECS.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
