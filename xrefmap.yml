@@ -84,89 +84,222 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.Camera.WorldToScreen
   nameWithType: Camera.WorldToScreen
+- uid: MonoMyst.Engine.Collections
+  name: MonoMyst.Engine.Collections
+  href: api/MonoMyst.Engine.Collections.html
+  commentId: N:MonoMyst.Engine.Collections
+  fullName: MonoMyst.Engine.Collections
+  nameWithType: MonoMyst.Engine.Collections
+- uid: MonoMyst.Engine.Collections.Quadtree`1
+  name: Quadtree<T>
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html
+  commentId: T:MonoMyst.Engine.Collections.Quadtree`1
+  name.vb: Quadtree(Of T)
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T)
+  nameWithType: Quadtree<T>
+  nameWithType.vb: Quadtree(Of T)
+- uid: MonoMyst.Engine.Collections.Quadtree`1.#ctor(Microsoft.Xna.Framework.Rectangle)
+  name: Quadtree(Rectangle)
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1__ctor_Microsoft_Xna_Framework_Rectangle_
+  commentId: M:MonoMyst.Engine.Collections.Quadtree`1.#ctor(Microsoft.Xna.Framework.Rectangle)
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Quadtree(Microsoft.Xna.Framework.Rectangle)
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Quadtree(Microsoft.Xna.Framework.Rectangle)
+  nameWithType: Quadtree<T>.Quadtree(Rectangle)
+  nameWithType.vb: Quadtree(Of T).Quadtree(Rectangle)
+- uid: MonoMyst.Engine.Collections.Quadtree`1.#ctor*
+  name: Quadtree
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1__ctor_
+  commentId: Overload:MonoMyst.Engine.Collections.Quadtree`1.#ctor
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Quadtree
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Quadtree
+  nameWithType: Quadtree<T>.Quadtree
+  nameWithType.vb: Quadtree(Of T).Quadtree
+- uid: MonoMyst.Engine.Collections.Quadtree`1.Clear
+  name: Clear()
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1_Clear
+  commentId: M:MonoMyst.Engine.Collections.Quadtree`1.Clear
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Clear()
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Clear()
+  nameWithType: Quadtree<T>.Clear()
+  nameWithType.vb: Quadtree(Of T).Clear()
+- uid: MonoMyst.Engine.Collections.Quadtree`1.Clear*
+  name: Clear
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1_Clear_
+  commentId: Overload:MonoMyst.Engine.Collections.Quadtree`1.Clear
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Clear
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Clear
+  nameWithType: Quadtree<T>.Clear
+  nameWithType.vb: Quadtree(Of T).Clear
+- uid: MonoMyst.Engine.Collections.Quadtree`1.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  name: Draw(SpriteBatch)
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_
+  commentId: M:MonoMyst.Engine.Collections.Quadtree`1.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  nameWithType: Quadtree<T>.Draw(SpriteBatch)
+  nameWithType.vb: Quadtree(Of T).Draw(SpriteBatch)
+- uid: MonoMyst.Engine.Collections.Quadtree`1.Draw*
+  name: Draw
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1_Draw_
+  commentId: Overload:MonoMyst.Engine.Collections.Quadtree`1.Draw
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Draw
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Draw
+  nameWithType: Quadtree<T>.Draw
+  nameWithType.vb: Quadtree(Of T).Draw
+- uid: MonoMyst.Engine.Collections.Quadtree`1.Insert(`0)
+  name: Insert(T)
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1_Insert__0_
+  commentId: M:MonoMyst.Engine.Collections.Quadtree`1.Insert(`0)
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Insert(T)
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Insert(T)
+  nameWithType: Quadtree<T>.Insert(T)
+  nameWithType.vb: Quadtree(Of T).Insert(T)
+- uid: MonoMyst.Engine.Collections.Quadtree`1.Insert*
+  name: Insert
+  href: api/MonoMyst.Engine.Collections.Quadtree-1.html#MonoMyst_Engine_Collections_Quadtree_1_Insert_
+  commentId: Overload:MonoMyst.Engine.Collections.Quadtree`1.Insert
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Collections.Quadtree<T>.Insert
+  fullName.vb: MonoMyst.Engine.Collections.Quadtree(Of T).Insert
+  nameWithType: Quadtree<T>.Insert
+  nameWithType.vb: Quadtree(Of T).Insert
 - uid: MonoMyst.Engine.ECS
   name: MonoMyst.Engine.ECS
   href: api/MonoMyst.Engine.ECS.html
   commentId: N:MonoMyst.Engine.ECS
   fullName: MonoMyst.Engine.ECS
   nameWithType: MonoMyst.Engine.ECS
+- uid: MonoMyst.Engine.ECS.Component
+  name: Component
+  href: api/MonoMyst.Engine.ECS.Component.html
+  commentId: T:MonoMyst.Engine.ECS.Component
+  fullName: MonoMyst.Engine.ECS.Component
+  nameWithType: Component
+- uid: MonoMyst.Engine.ECS.Component.Entity
+  name: Entity
+  href: api/MonoMyst.Engine.ECS.Component.html#MonoMyst_Engine_ECS_Component_Entity
+  commentId: P:MonoMyst.Engine.ECS.Component.Entity
+  fullName: MonoMyst.Engine.ECS.Component.Entity
+  nameWithType: Component.Entity
+- uid: MonoMyst.Engine.ECS.Component.Entity*
+  name: Entity
+  href: api/MonoMyst.Engine.ECS.Component.html#MonoMyst_Engine_ECS_Component_Entity_
+  commentId: Overload:MonoMyst.Engine.ECS.Component.Entity
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Component.Entity
+  nameWithType: Component.Entity
 - uid: MonoMyst.Engine.ECS.Components
   name: MonoMyst.Engine.ECS.Components
   href: api/MonoMyst.Engine.ECS.Components.html
   commentId: N:MonoMyst.Engine.ECS.Components
   fullName: MonoMyst.Engine.ECS.Components
   nameWithType: MonoMyst.Engine.ECS.Components
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent
-  name: AnimatedSpriteComponent
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html
-  commentId: T:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent
-  nameWithType: AnimatedSpriteComponent
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
-  name: Color
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Color
-  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
-  nameWithType: AnimatedSpriteComponent.Color
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color*
-  name: Color
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Color_
-  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent
+  name: AABBComponent
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html
+  commentId: T:MonoMyst.Engine.ECS.Components.AABBComponent
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent
+  nameWithType: AABBComponent
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.DebugColor
+  name: DebugColor
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_DebugColor
+  commentId: P:MonoMyst.Engine.ECS.Components.AABBComponent.DebugColor
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.DebugColor
+  nameWithType: AABBComponent.DebugColor
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.DebugColor*
+  name: DebugColor
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_DebugColor_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AABBComponent.DebugColor
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Color
-  nameWithType: AnimatedSpriteComponent.Color
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
-  name: Size
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Size
-  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
-  nameWithType: AnimatedSpriteComponent.Size
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size*
-  name: Size
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_Size_
-  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.DebugColor
+  nameWithType: AABBComponent.DebugColor
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.DrawDebug
+  name: DrawDebug
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_DrawDebug
+  commentId: P:MonoMyst.Engine.ECS.Components.AABBComponent.DrawDebug
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.DrawDebug
+  nameWithType: AABBComponent.DrawDebug
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.DrawDebug*
+  name: DrawDebug
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_DrawDebug_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AABBComponent.DrawDebug
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.Size
-  nameWithType: AnimatedSpriteComponent.Size
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
-  name: SpriteSheet
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSheet
-  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
-  nameWithType: AnimatedSpriteComponent.SpriteSheet
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet*
-  name: SpriteSheet
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSheet_
-  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.DrawDebug
+  nameWithType: AABBComponent.DrawDebug
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.Height
+  name: Height
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_Height
+  commentId: P:MonoMyst.Engine.ECS.Components.AABBComponent.Height
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.Height
+  nameWithType: AABBComponent.Height
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.Height*
+  name: Height
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_Height_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AABBComponent.Height
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSheet
-  nameWithType: AnimatedSpriteComponent.SpriteSheet
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
-  name: SpriteSize
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSize
-  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
-  nameWithType: AnimatedSpriteComponent.SpriteSize
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize*
-  name: SpriteSize
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_SpriteSize_
-  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.Height
+  nameWithType: AABBComponent.Height
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetX
+  name: OffsetX
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_OffsetX
+  commentId: P:MonoMyst.Engine.ECS.Components.AABBComponent.OffsetX
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetX
+  nameWithType: AABBComponent.OffsetX
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetX*
+  name: OffsetX
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_OffsetX_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AABBComponent.OffsetX
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.SpriteSize
-  nameWithType: AnimatedSpriteComponent.SpriteSize
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
-  name: TimePerFrame
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_TimePerFrame
-  commentId: P:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
-  nameWithType: AnimatedSpriteComponent.TimePerFrame
-- uid: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame*
-  name: TimePerFrame
-  href: api/MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.html#MonoMyst_Engine_ECS_Components_AnimatedSpriteComponent_TimePerFrame_
-  commentId: Overload:MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetX
+  nameWithType: AABBComponent.OffsetX
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetY
+  name: OffsetY
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_OffsetY
+  commentId: P:MonoMyst.Engine.ECS.Components.AABBComponent.OffsetY
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetY
+  nameWithType: AABBComponent.OffsetY
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetY*
+  name: OffsetY
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_OffsetY_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AABBComponent.OffsetY
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Components.AnimatedSpriteComponent.TimePerFrame
-  nameWithType: AnimatedSpriteComponent.TimePerFrame
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.OffsetY
+  nameWithType: AABBComponent.OffsetY
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.OnCollision
+  name: OnCollision
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_OnCollision
+  commentId: F:MonoMyst.Engine.ECS.Components.AABBComponent.OnCollision
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.OnCollision
+  nameWithType: AABBComponent.OnCollision
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.Width
+  name: Width
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_Width
+  commentId: P:MonoMyst.Engine.ECS.Components.AABBComponent.Width
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.Width
+  nameWithType: AABBComponent.Width
+- uid: MonoMyst.Engine.ECS.Components.AABBComponent.Width*
+  name: Width
+  href: api/MonoMyst.Engine.ECS.Components.AABBComponent.html#MonoMyst_Engine_ECS_Components_AABBComponent_Width_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.AABBComponent.Width
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Components.AABBComponent.Width
+  nameWithType: AABBComponent.Width
+- uid: MonoMyst.Engine.ECS.Components.PhysicsBodyComponent
+  name: PhysicsBodyComponent
+  href: api/MonoMyst.Engine.ECS.Components.PhysicsBodyComponent.html
+  commentId: T:MonoMyst.Engine.ECS.Components.PhysicsBodyComponent
+  fullName: MonoMyst.Engine.ECS.Components.PhysicsBodyComponent
+  nameWithType: PhysicsBodyComponent
+- uid: MonoMyst.Engine.ECS.Components.PhysicsBodyComponent.Velocity
+  name: Velocity
+  href: api/MonoMyst.Engine.ECS.Components.PhysicsBodyComponent.html#MonoMyst_Engine_ECS_Components_PhysicsBodyComponent_Velocity
+  commentId: F:MonoMyst.Engine.ECS.Components.PhysicsBodyComponent.Velocity
+  fullName: MonoMyst.Engine.ECS.Components.PhysicsBodyComponent.Velocity
+  nameWithType: PhysicsBodyComponent.Velocity
 - uid: MonoMyst.Engine.ECS.Components.SpriteComponent
   name: SpriteComponent
   href: api/MonoMyst.Engine.ECS.Components.SpriteComponent.html
@@ -186,19 +319,19 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Components.SpriteComponent.Color
   nameWithType: SpriteComponent.Color
-- uid: MonoMyst.Engine.ECS.Components.SpriteComponent.Size
-  name: Size
-  href: api/MonoMyst.Engine.ECS.Components.SpriteComponent.html#MonoMyst_Engine_ECS_Components_SpriteComponent_Size
-  commentId: P:MonoMyst.Engine.ECS.Components.SpriteComponent.Size
-  fullName: MonoMyst.Engine.ECS.Components.SpriteComponent.Size
-  nameWithType: SpriteComponent.Size
-- uid: MonoMyst.Engine.ECS.Components.SpriteComponent.Size*
-  name: Size
-  href: api/MonoMyst.Engine.ECS.Components.SpriteComponent.html#MonoMyst_Engine_ECS_Components_SpriteComponent_Size_
-  commentId: Overload:MonoMyst.Engine.ECS.Components.SpriteComponent.Size
+- uid: MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth
+  name: LayerDepth
+  href: api/MonoMyst.Engine.ECS.Components.SpriteComponent.html#MonoMyst_Engine_ECS_Components_SpriteComponent_LayerDepth
+  commentId: P:MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth
+  fullName: MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth
+  nameWithType: SpriteComponent.LayerDepth
+- uid: MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth*
+  name: LayerDepth
+  href: api/MonoMyst.Engine.ECS.Components.SpriteComponent.html#MonoMyst_Engine_ECS_Components_SpriteComponent_LayerDepth_
+  commentId: Overload:MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Components.SpriteComponent.Size
-  nameWithType: SpriteComponent.Size
+  fullName: MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth
+  nameWithType: SpriteComponent.LayerDepth
 - uid: MonoMyst.Engine.ECS.Components.SpriteComponent.Sprite
   name: Sprite
   href: api/MonoMyst.Engine.ECS.Components.SpriteComponent.html#MonoMyst_Engine_ECS_Components_SpriteComponent_Sprite
@@ -392,6 +525,12 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Entity.Entity
   nameWithType: Entity.Entity
+- uid: MonoMyst.Engine.ECS.Entity.AddComponent(System.Type)
+  name: AddComponent(Type)
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_AddComponent_System_Type_
+  commentId: M:MonoMyst.Engine.ECS.Entity.AddComponent(System.Type)
+  fullName: MonoMyst.Engine.ECS.Entity.AddComponent(System.Type)
+  nameWithType: Entity.AddComponent(Type)
 - uid: MonoMyst.Engine.ECS.Entity.AddComponent*
   name: AddComponent
   href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_AddComponent_
@@ -408,6 +547,22 @@ references:
   fullName.vb: MonoMyst.Engine.ECS.Entity.AddComponent(Of T)()
   nameWithType: Entity.AddComponent<T>()
   nameWithType.vb: Entity.AddComponent(Of T)()
+- uid: MonoMyst.Engine.ECS.Entity.AddComponentIfDoesntExist*
+  name: AddComponentIfDoesntExist
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_AddComponentIfDoesntExist_
+  commentId: Overload:MonoMyst.Engine.ECS.Entity.AddComponentIfDoesntExist
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Entity.AddComponentIfDoesntExist
+  nameWithType: Entity.AddComponentIfDoesntExist
+- uid: MonoMyst.Engine.ECS.Entity.AddComponentIfDoesntExist``1
+  name: AddComponentIfDoesntExist<T>()
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_AddComponentIfDoesntExist__1
+  commentId: M:MonoMyst.Engine.ECS.Entity.AddComponentIfDoesntExist``1
+  name.vb: AddComponentIfDoesntExist(Of T)()
+  fullName: MonoMyst.Engine.ECS.Entity.AddComponentIfDoesntExist<T>()
+  fullName.vb: MonoMyst.Engine.ECS.Entity.AddComponentIfDoesntExist(Of T)()
+  nameWithType: Entity.AddComponentIfDoesntExist<T>()
+  nameWithType.vb: Entity.AddComponentIfDoesntExist(Of T)()
 - uid: MonoMyst.Engine.ECS.Entity.Destroy
   name: Destroy()
   href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_Destroy
@@ -466,6 +621,15 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Entity.HasComponent
   nameWithType: Entity.HasComponent
+- uid: MonoMyst.Engine.ECS.Entity.HasComponent``1
+  name: HasComponent<T>()
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_HasComponent__1
+  commentId: M:MonoMyst.Engine.ECS.Entity.HasComponent``1
+  name.vb: HasComponent(Of T)()
+  fullName: MonoMyst.Engine.ECS.Entity.HasComponent<T>()
+  fullName.vb: MonoMyst.Engine.ECS.Entity.HasComponent(Of T)()
+  nameWithType: Entity.HasComponent<T>()
+  nameWithType.vb: Entity.HasComponent(Of T)()
 - uid: MonoMyst.Engine.ECS.Entity.HasComponents(System.Collections.Generic.IEnumerable{System.Type})
   name: HasComponents(IEnumerable<Type>)
   href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_HasComponents_System_Collections_Generic_IEnumerable_System_Type__
@@ -508,12 +672,12 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Entity.OwnerPool
   nameWithType: Entity.OwnerPool
-- uid: MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.IComponent)
-  name: RemoveComponent(IComponent)
-  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_RemoveComponent_MonoMyst_Engine_ECS_IComponent_
-  commentId: M:MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.IComponent)
-  fullName: MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.IComponent)
-  nameWithType: Entity.RemoveComponent(IComponent)
+- uid: MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.Component)
+  name: RemoveComponent(Component)
+  href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_RemoveComponent_MonoMyst_Engine_ECS_Component_
+  commentId: M:MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.Component)
+  fullName: MonoMyst.Engine.ECS.Entity.RemoveComponent(MonoMyst.Engine.ECS.Component)
+  nameWithType: Entity.RemoveComponent(Component)
 - uid: MonoMyst.Engine.ECS.Entity.RemoveComponent*
   name: RemoveComponent
   href: api/MonoMyst.Engine.ECS.Entity.html#MonoMyst_Engine_ECS_Entity_RemoveComponent_
@@ -660,6 +824,25 @@ references:
   commentId: T:MonoMyst.Engine.ECS.IComponent
   fullName: MonoMyst.Engine.ECS.IComponent
   nameWithType: IComponent
+- uid: MonoMyst.Engine.ECS.Premade
+  name: Premade
+  href: api/MonoMyst.Engine.ECS.Premade.html
+  commentId: T:MonoMyst.Engine.ECS.Premade
+  fullName: MonoMyst.Engine.ECS.Premade
+  nameWithType: Premade
+- uid: MonoMyst.Engine.ECS.Premade.Create(System.String)
+  name: Create(String)
+  href: api/MonoMyst.Engine.ECS.Premade.html#MonoMyst_Engine_ECS_Premade_Create_System_String_
+  commentId: M:MonoMyst.Engine.ECS.Premade.Create(System.String)
+  fullName: MonoMyst.Engine.ECS.Premade.Create(System.String)
+  nameWithType: Premade.Create(String)
+- uid: MonoMyst.Engine.ECS.Premade.Create*
+  name: Create
+  href: api/MonoMyst.Engine.ECS.Premade.html#MonoMyst_Engine_ECS_Premade_Create_
+  commentId: Overload:MonoMyst.Engine.ECS.Premade.Create
+  isSpec: "True"
+  fullName: MonoMyst.Engine.ECS.Premade.Create
+  nameWithType: Premade.Create
 - uid: MonoMyst.Engine.ECS.Scene
   name: Scene
   href: api/MonoMyst.Engine.ECS.Scene.html
@@ -789,64 +972,70 @@ references:
   commentId: N:MonoMyst.Engine.ECS.Systems
   fullName: MonoMyst.Engine.ECS.Systems
   nameWithType: MonoMyst.Engine.ECS.Systems
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem
-  name: AnimatedSpriteRenderSystem
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html
-  commentId: T:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem
-  nameWithType: AnimatedSpriteRenderSystem
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
-  name: AnimatedSpriteRenderSystem(EntityPool)
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem__ctor_MonoMyst_Engine_ECS_EntityPool_
-  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem(MonoMyst.Engine.ECS.EntityPool)
-  nameWithType: AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem(EntityPool)
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor*
-  name: AnimatedSpriteRenderSystem
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem__ctor_
-  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.#ctor
+- uid: MonoMyst.Engine.ECS.Systems.AABBSystem
+  name: AABBSystem
+  href: api/MonoMyst.Engine.ECS.Systems.AABBSystem.html
+  commentId: T:MonoMyst.Engine.ECS.Systems.AABBSystem
+  fullName: MonoMyst.Engine.ECS.Systems.AABBSystem
+  nameWithType: AABBSystem
+- uid: MonoMyst.Engine.ECS.Systems.AABBSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
+  name: AABBSystem(EntityPool)
+  href: api/MonoMyst.Engine.ECS.Systems.AABBSystem.html#MonoMyst_Engine_ECS_Systems_AABBSystem__ctor_MonoMyst_Engine_ECS_EntityPool_
+  commentId: M:MonoMyst.Engine.ECS.Systems.AABBSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
+  fullName: MonoMyst.Engine.ECS.Systems.AABBSystem.AABBSystem(MonoMyst.Engine.ECS.EntityPool)
+  nameWithType: AABBSystem.AABBSystem(EntityPool)
+- uid: MonoMyst.Engine.ECS.Systems.AABBSystem.#ctor*
+  name: AABBSystem
+  href: api/MonoMyst.Engine.ECS.Systems.AABBSystem.html#MonoMyst_Engine_ECS_Systems_AABBSystem__ctor_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.AABBSystem.#ctor
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem
-  nameWithType: AnimatedSpriteRenderSystem.AnimatedSpriteRenderSystem
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  fullName: MonoMyst.Engine.ECS.Systems.AABBSystem.AABBSystem
+  nameWithType: AABBSystem.AABBSystem
+- uid: MonoMyst.Engine.ECS.Systems.AABBSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
   name: Draw(SpriteBatch)
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_
-  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
-  nameWithType: AnimatedSpriteRenderSystem.Draw(SpriteBatch)
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw*
+  href: api/MonoMyst.Engine.ECS.Systems.AABBSystem.html#MonoMyst_Engine_ECS_Systems_AABBSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_
+  commentId: M:MonoMyst.Engine.ECS.Systems.AABBSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  fullName: MonoMyst.Engine.ECS.Systems.AABBSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  nameWithType: AABBSystem.Draw(SpriteBatch)
+- uid: MonoMyst.Engine.ECS.Systems.AABBSystem.Draw*
   name: Draw
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Draw_
-  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw
+  href: api/MonoMyst.Engine.ECS.Systems.AABBSystem.html#MonoMyst_Engine_ECS_Systems_AABBSystem_Draw_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.AABBSystem.Draw
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Draw
-  nameWithType: AnimatedSpriteRenderSystem.Draw
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool,MonoMyst.Engine.ECS.Entity)
-  name: EntitiesChanged(EntityPool, Entity)
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_EntitiesChanged_MonoMyst_Engine_ECS_EntityPool_MonoMyst_Engine_ECS_Entity_
-  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool,MonoMyst.Engine.ECS.Entity)
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged(MonoMyst.Engine.ECS.EntityPool, MonoMyst.Engine.ECS.Entity)
-  nameWithType: AnimatedSpriteRenderSystem.EntitiesChanged(EntityPool, Entity)
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged*
-  name: EntitiesChanged
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_EntitiesChanged_
-  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged
+  fullName: MonoMyst.Engine.ECS.Systems.AABBSystem.Draw
+  nameWithType: AABBSystem.Draw
+- uid: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem
+  name: PhysicsMovementSystem
+  href: api/MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.html
+  commentId: T:MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem
+  fullName: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem
+  nameWithType: PhysicsMovementSystem
+- uid: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
+  name: PhysicsMovementSystem(EntityPool)
+  href: api/MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.html#MonoMyst_Engine_ECS_Systems_PhysicsMovementSystem__ctor_MonoMyst_Engine_ECS_EntityPool_
+  commentId: M:MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)
+  fullName: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.PhysicsMovementSystem(MonoMyst.Engine.ECS.EntityPool)
+  nameWithType: PhysicsMovementSystem.PhysicsMovementSystem(EntityPool)
+- uid: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.#ctor*
+  name: PhysicsMovementSystem
+  href: api/MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.html#MonoMyst_Engine_ECS_Systems_PhysicsMovementSystem__ctor_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.#ctor
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.EntitiesChanged
-  nameWithType: AnimatedSpriteRenderSystem.EntitiesChanged
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update(System.Single)
+  fullName: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.PhysicsMovementSystem
+  nameWithType: PhysicsMovementSystem.PhysicsMovementSystem
+- uid: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.Update(System.Single)
   name: Update(Single)
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Update_System_Single_
-  commentId: M:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update(System.Single)
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update(System.Single)
-  nameWithType: AnimatedSpriteRenderSystem.Update(Single)
-- uid: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update*
+  href: api/MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.html#MonoMyst_Engine_ECS_Systems_PhysicsMovementSystem_Update_System_Single_
+  commentId: M:MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.Update(System.Single)
+  fullName: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.Update(System.Single)
+  nameWithType: PhysicsMovementSystem.Update(Single)
+- uid: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.Update*
   name: Update
-  href: api/MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.html#MonoMyst_Engine_ECS_Systems_AnimatedSpriteRenderSystem_Update_
-  commentId: Overload:MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update
+  href: api/MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.html#MonoMyst_Engine_ECS_Systems_PhysicsMovementSystem_Update_
+  commentId: Overload:MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.Update
   isSpec: "True"
-  fullName: MonoMyst.Engine.ECS.Systems.AnimatedSpriteRenderSystem.Update
-  nameWithType: AnimatedSpriteRenderSystem.Update
+  fullName: MonoMyst.Engine.ECS.Systems.PhysicsMovementSystem.Update
+  nameWithType: PhysicsMovementSystem.Update
 - uid: MonoMyst.Engine.ECS.Systems.SpriteRenderSystem
   name: SpriteRenderSystem
   href: api/MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.html
@@ -879,6 +1068,44 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.ECS.Systems.SpriteRenderSystem.Draw
   nameWithType: SpriteRenderSystem.Draw
+- uid: MonoMyst.Engine.Extensions
+  name: MonoMyst.Engine.Extensions
+  href: api/MonoMyst.Engine.Extensions.html
+  commentId: N:MonoMyst.Engine.Extensions
+  fullName: MonoMyst.Engine.Extensions
+  nameWithType: MonoMyst.Engine.Extensions
+- uid: MonoMyst.Engine.Extensions.RectangleExtensions
+  name: RectangleExtensions
+  href: api/MonoMyst.Engine.Extensions.RectangleExtensions.html
+  commentId: T:MonoMyst.Engine.Extensions.RectangleExtensions
+  fullName: MonoMyst.Engine.Extensions.RectangleExtensions
+  nameWithType: RectangleExtensions
+- uid: MonoMyst.Engine.Extensions.RectangleExtensions.GetBottomCenter(Microsoft.Xna.Framework.Rectangle)
+  name: GetBottomCenter(Rectangle)
+  href: api/MonoMyst.Engine.Extensions.RectangleExtensions.html#MonoMyst_Engine_Extensions_RectangleExtensions_GetBottomCenter_Microsoft_Xna_Framework_Rectangle_
+  commentId: M:MonoMyst.Engine.Extensions.RectangleExtensions.GetBottomCenter(Microsoft.Xna.Framework.Rectangle)
+  fullName: MonoMyst.Engine.Extensions.RectangleExtensions.GetBottomCenter(Microsoft.Xna.Framework.Rectangle)
+  nameWithType: RectangleExtensions.GetBottomCenter(Rectangle)
+- uid: MonoMyst.Engine.Extensions.RectangleExtensions.GetBottomCenter*
+  name: GetBottomCenter
+  href: api/MonoMyst.Engine.Extensions.RectangleExtensions.html#MonoMyst_Engine_Extensions_RectangleExtensions_GetBottomCenter_
+  commentId: Overload:MonoMyst.Engine.Extensions.RectangleExtensions.GetBottomCenter
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Extensions.RectangleExtensions.GetBottomCenter
+  nameWithType: RectangleExtensions.GetBottomCenter
+- uid: MonoMyst.Engine.Extensions.RectangleExtensions.GetIntersectionDepth(Microsoft.Xna.Framework.Rectangle,Microsoft.Xna.Framework.Rectangle)
+  name: GetIntersectionDepth(Rectangle, Rectangle)
+  href: api/MonoMyst.Engine.Extensions.RectangleExtensions.html#MonoMyst_Engine_Extensions_RectangleExtensions_GetIntersectionDepth_Microsoft_Xna_Framework_Rectangle_Microsoft_Xna_Framework_Rectangle_
+  commentId: M:MonoMyst.Engine.Extensions.RectangleExtensions.GetIntersectionDepth(Microsoft.Xna.Framework.Rectangle,Microsoft.Xna.Framework.Rectangle)
+  fullName: MonoMyst.Engine.Extensions.RectangleExtensions.GetIntersectionDepth(Microsoft.Xna.Framework.Rectangle, Microsoft.Xna.Framework.Rectangle)
+  nameWithType: RectangleExtensions.GetIntersectionDepth(Rectangle, Rectangle)
+- uid: MonoMyst.Engine.Extensions.RectangleExtensions.GetIntersectionDepth*
+  name: GetIntersectionDepth
+  href: api/MonoMyst.Engine.Extensions.RectangleExtensions.html#MonoMyst_Engine_Extensions_RectangleExtensions_GetIntersectionDepth_
+  commentId: Overload:MonoMyst.Engine.Extensions.RectangleExtensions.GetIntersectionDepth
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Extensions.RectangleExtensions.GetIntersectionDepth
+  nameWithType: RectangleExtensions.GetIntersectionDepth
 - uid: MonoMyst.Engine.Graphics
   name: MonoMyst.Engine.Graphics
   href: api/MonoMyst.Engine.Graphics.html
@@ -904,6 +1131,19 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.Graphics.GraphicUtilities.GraphicUtilities
   nameWithType: GraphicUtilities.GraphicUtilities
+- uid: MonoMyst.Engine.Graphics.GraphicUtilities.Checkmark
+  name: Checkmark
+  href: api/MonoMyst.Engine.Graphics.GraphicUtilities.html#MonoMyst_Engine_Graphics_GraphicUtilities_Checkmark
+  commentId: P:MonoMyst.Engine.Graphics.GraphicUtilities.Checkmark
+  fullName: MonoMyst.Engine.Graphics.GraphicUtilities.Checkmark
+  nameWithType: GraphicUtilities.Checkmark
+- uid: MonoMyst.Engine.Graphics.GraphicUtilities.Checkmark*
+  name: Checkmark
+  href: api/MonoMyst.Engine.Graphics.GraphicUtilities.html#MonoMyst_Engine_Graphics_GraphicUtilities_Checkmark_
+  commentId: Overload:MonoMyst.Engine.Graphics.GraphicUtilities.Checkmark
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Graphics.GraphicUtilities.Checkmark
+  nameWithType: GraphicUtilities.Checkmark
 - uid: MonoMyst.Engine.Graphics.GraphicUtilities.NotoSansRegular
   name: NotoSansRegular
   href: api/MonoMyst.Engine.Graphics.GraphicUtilities.html#MonoMyst_Engine_Graphics_GraphicUtilities_NotoSansRegular
@@ -930,6 +1170,135 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.Graphics.GraphicUtilities.Rectangle
   nameWithType: GraphicUtilities.Rectangle
+- uid: MonoMyst.Engine.IHasRectangle
+  name: IHasRectangle
+  href: api/MonoMyst.Engine.IHasRectangle.html
+  commentId: T:MonoMyst.Engine.IHasRectangle
+  fullName: MonoMyst.Engine.IHasRectangle
+  nameWithType: IHasRectangle
+- uid: MonoMyst.Engine.IHasRectangle.Rectangle
+  name: Rectangle
+  href: api/MonoMyst.Engine.IHasRectangle.html#MonoMyst_Engine_IHasRectangle_Rectangle
+  commentId: P:MonoMyst.Engine.IHasRectangle.Rectangle
+  fullName: MonoMyst.Engine.IHasRectangle.Rectangle
+  nameWithType: IHasRectangle.Rectangle
+- uid: MonoMyst.Engine.IHasRectangle.Rectangle*
+  name: Rectangle
+  href: api/MonoMyst.Engine.IHasRectangle.html#MonoMyst_Engine_IHasRectangle_Rectangle_
+  commentId: Overload:MonoMyst.Engine.IHasRectangle.Rectangle
+  isSpec: "True"
+  fullName: MonoMyst.Engine.IHasRectangle.Rectangle
+  nameWithType: IHasRectangle.Rectangle
+- uid: MonoMyst.Engine.Input
+  name: Input
+  href: api/MonoMyst.Engine.Input.html
+  commentId: T:MonoMyst.Engine.Input
+  fullName: MonoMyst.Engine.Input
+  nameWithType: Input
+- uid: MonoMyst.Engine.Input.EndState
+  name: EndState()
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_EndState
+  commentId: M:MonoMyst.Engine.Input.EndState
+  fullName: MonoMyst.Engine.Input.EndState()
+  nameWithType: Input.EndState()
+- uid: MonoMyst.Engine.Input.EndState*
+  name: EndState
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_EndState_
+  commentId: Overload:MonoMyst.Engine.Input.EndState
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.EndState
+  nameWithType: Input.EndState
+- uid: MonoMyst.Engine.Input.IsKeyHeld(Microsoft.Xna.Framework.Input.Keys)
+  name: IsKeyHeld(Keys)
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsKeyHeld_Microsoft_Xna_Framework_Input_Keys_
+  commentId: M:MonoMyst.Engine.Input.IsKeyHeld(Microsoft.Xna.Framework.Input.Keys)
+  fullName: MonoMyst.Engine.Input.IsKeyHeld(Microsoft.Xna.Framework.Input.Keys)
+  nameWithType: Input.IsKeyHeld(Keys)
+- uid: MonoMyst.Engine.Input.IsKeyHeld*
+  name: IsKeyHeld
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsKeyHeld_
+  commentId: Overload:MonoMyst.Engine.Input.IsKeyHeld
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.IsKeyHeld
+  nameWithType: Input.IsKeyHeld
+- uid: MonoMyst.Engine.Input.IsKeyPressed(Microsoft.Xna.Framework.Input.Keys)
+  name: IsKeyPressed(Keys)
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsKeyPressed_Microsoft_Xna_Framework_Input_Keys_
+  commentId: M:MonoMyst.Engine.Input.IsKeyPressed(Microsoft.Xna.Framework.Input.Keys)
+  fullName: MonoMyst.Engine.Input.IsKeyPressed(Microsoft.Xna.Framework.Input.Keys)
+  nameWithType: Input.IsKeyPressed(Keys)
+- uid: MonoMyst.Engine.Input.IsKeyPressed*
+  name: IsKeyPressed
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsKeyPressed_
+  commentId: Overload:MonoMyst.Engine.Input.IsKeyPressed
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.IsKeyPressed
+  nameWithType: Input.IsKeyPressed
+- uid: MonoMyst.Engine.Input.IsKeyUp(Microsoft.Xna.Framework.Input.Keys)
+  name: IsKeyUp(Keys)
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsKeyUp_Microsoft_Xna_Framework_Input_Keys_
+  commentId: M:MonoMyst.Engine.Input.IsKeyUp(Microsoft.Xna.Framework.Input.Keys)
+  fullName: MonoMyst.Engine.Input.IsKeyUp(Microsoft.Xna.Framework.Input.Keys)
+  nameWithType: Input.IsKeyUp(Keys)
+- uid: MonoMyst.Engine.Input.IsKeyUp*
+  name: IsKeyUp
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsKeyUp_
+  commentId: Overload:MonoMyst.Engine.Input.IsKeyUp
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.IsKeyUp
+  nameWithType: Input.IsKeyUp
+- uid: MonoMyst.Engine.Input.IsLeftMouseHeld
+  name: IsLeftMouseHeld()
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsLeftMouseHeld
+  commentId: M:MonoMyst.Engine.Input.IsLeftMouseHeld
+  fullName: MonoMyst.Engine.Input.IsLeftMouseHeld()
+  nameWithType: Input.IsLeftMouseHeld()
+- uid: MonoMyst.Engine.Input.IsLeftMouseHeld*
+  name: IsLeftMouseHeld
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsLeftMouseHeld_
+  commentId: Overload:MonoMyst.Engine.Input.IsLeftMouseHeld
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.IsLeftMouseHeld
+  nameWithType: Input.IsLeftMouseHeld
+- uid: MonoMyst.Engine.Input.IsLeftMousePressed
+  name: IsLeftMousePressed()
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsLeftMousePressed
+  commentId: M:MonoMyst.Engine.Input.IsLeftMousePressed
+  fullName: MonoMyst.Engine.Input.IsLeftMousePressed()
+  nameWithType: Input.IsLeftMousePressed()
+- uid: MonoMyst.Engine.Input.IsLeftMousePressed*
+  name: IsLeftMousePressed
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_IsLeftMousePressed_
+  commentId: Overload:MonoMyst.Engine.Input.IsLeftMousePressed
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.IsLeftMousePressed
+  nameWithType: Input.IsLeftMousePressed
+- uid: MonoMyst.Engine.Input.MousePosition
+  name: MousePosition
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_MousePosition
+  commentId: P:MonoMyst.Engine.Input.MousePosition
+  fullName: MonoMyst.Engine.Input.MousePosition
+  nameWithType: Input.MousePosition
+- uid: MonoMyst.Engine.Input.MousePosition*
+  name: MousePosition
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_MousePosition_
+  commentId: Overload:MonoMyst.Engine.Input.MousePosition
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.MousePosition
+  nameWithType: Input.MousePosition
+- uid: MonoMyst.Engine.Input.StartState
+  name: StartState()
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_StartState
+  commentId: M:MonoMyst.Engine.Input.StartState
+  fullName: MonoMyst.Engine.Input.StartState()
+  nameWithType: Input.StartState()
+- uid: MonoMyst.Engine.Input.StartState*
+  name: StartState
+  href: api/MonoMyst.Engine.Input.html#MonoMyst_Engine_Input_StartState_
+  commentId: Overload:MonoMyst.Engine.Input.StartState
+  isSpec: "True"
+  fullName: MonoMyst.Engine.Input.StartState
+  nameWithType: Input.StartState
 - uid: MonoMyst.Engine.MColors
   name: MColors
   href: api/MonoMyst.Engine.MColors.html
@@ -948,6 +1317,12 @@ references:
   commentId: F:MonoMyst.Engine.MColors.Nero
   fullName: MonoMyst.Engine.MColors.Nero
   nameWithType: MColors.Nero
+- uid: MonoMyst.Engine.MColors.Reno
+  name: Reno
+  href: api/MonoMyst.Engine.MColors.html#MonoMyst_Engine_MColors_Reno
+  commentId: F:MonoMyst.Engine.MColors.Reno
+  fullName: MonoMyst.Engine.MColors.Reno
+  nameWithType: MColors.Reno
 - uid: MonoMyst.Engine.MGame
   name: MGame
   href: api/MonoMyst.Engine.MGame.html
@@ -1019,6 +1394,32 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.MGame.EmbeddedContent
   nameWithType: MGame.EmbeddedContent
+- uid: MonoMyst.Engine.MGame.FPS
+  name: FPS
+  href: api/MonoMyst.Engine.MGame.html#MonoMyst_Engine_MGame_FPS
+  commentId: P:MonoMyst.Engine.MGame.FPS
+  fullName: MonoMyst.Engine.MGame.FPS
+  nameWithType: MGame.FPS
+- uid: MonoMyst.Engine.MGame.FPS*
+  name: FPS
+  href: api/MonoMyst.Engine.MGame.html#MonoMyst_Engine_MGame_FPS_
+  commentId: Overload:MonoMyst.Engine.MGame.FPS
+  isSpec: "True"
+  fullName: MonoMyst.Engine.MGame.FPS
+  nameWithType: MGame.FPS
+- uid: MonoMyst.Engine.MGame.GameServices
+  name: GameServices
+  href: api/MonoMyst.Engine.MGame.html#MonoMyst_Engine_MGame_GameServices
+  commentId: P:MonoMyst.Engine.MGame.GameServices
+  fullName: MonoMyst.Engine.MGame.GameServices
+  nameWithType: MGame.GameServices
+- uid: MonoMyst.Engine.MGame.GameServices*
+  name: GameServices
+  href: api/MonoMyst.Engine.MGame.html#MonoMyst_Engine_MGame_GameServices_
+  commentId: Overload:MonoMyst.Engine.MGame.GameServices
+  isSpec: "True"
+  fullName: MonoMyst.Engine.MGame.GameServices
+  nameWithType: MGame.GameServices
 - uid: MonoMyst.Engine.MGame.GraphicsDeviceManager
   name: GraphicsDeviceManager
   href: api/MonoMyst.Engine.MGame.html#MonoMyst_Engine_MGame_GraphicsDeviceManager
@@ -1729,6 +2130,128 @@ references:
   isSpec: "True"
   fullName: MonoMyst.Engine.UI.Widgets.Button.TextColor
   nameWithType: Button.TextColor
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox
+  name: CheckBox
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html
+  commentId: T:MonoMyst.Engine.UI.Widgets.CheckBox
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox
+  nameWithType: CheckBox
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.#ctor
+  name: CheckBox()
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox__ctor
+  commentId: M:MonoMyst.Engine.UI.Widgets.CheckBox.#ctor
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.CheckBox()
+  nameWithType: CheckBox.CheckBox()
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.#ctor(System.String)
+  name: CheckBox(String)
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox__ctor_System_String_
+  commentId: M:MonoMyst.Engine.UI.Widgets.CheckBox.#ctor(System.String)
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.CheckBox(System.String)
+  nameWithType: CheckBox.CheckBox(String)
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.#ctor*
+  name: CheckBox
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox__ctor_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.#ctor
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.CheckBox
+  nameWithType: CheckBox.CheckBox
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.CheckBoxBackgroundColor
+  name: CheckBoxBackgroundColor
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_CheckBoxBackgroundColor
+  commentId: P:MonoMyst.Engine.UI.Widgets.CheckBox.CheckBoxBackgroundColor
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.CheckBoxBackgroundColor
+  nameWithType: CheckBox.CheckBoxBackgroundColor
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.CheckBoxBackgroundColor*
+  name: CheckBoxBackgroundColor
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_CheckBoxBackgroundColor_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.CheckBoxBackgroundColor
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.CheckBoxBackgroundColor
+  nameWithType: CheckBox.CheckBoxBackgroundColor
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.Checked
+  name: Checked
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_Checked
+  commentId: P:MonoMyst.Engine.UI.Widgets.CheckBox.Checked
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.Checked
+  nameWithType: CheckBox.Checked
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.Checked*
+  name: Checked
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_Checked_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.Checked
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.Checked
+  nameWithType: CheckBox.Checked
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  name: Draw(SpriteBatch)
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_
+  commentId: M:MonoMyst.Engine.UI.Widgets.CheckBox.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)
+  nameWithType: CheckBox.Draw(SpriteBatch)
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.Draw*
+  name: Draw
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_Draw_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.Draw
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.Draw
+  nameWithType: CheckBox.Draw
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.OnCheckedChanged
+  name: OnCheckedChanged
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_OnCheckedChanged
+  commentId: F:MonoMyst.Engine.UI.Widgets.CheckBox.OnCheckedChanged
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.OnCheckedChanged
+  nameWithType: CheckBox.OnCheckedChanged
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.OnClicked
+  name: OnClicked()
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_OnClicked
+  commentId: M:MonoMyst.Engine.UI.Widgets.CheckBox.OnClicked
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.OnClicked()
+  nameWithType: CheckBox.OnClicked()
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.OnClicked*
+  name: OnClicked
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_OnClicked_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.OnClicked
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.OnClicked
+  nameWithType: CheckBox.OnClicked
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.SortingOrder
+  name: SortingOrder
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_SortingOrder
+  commentId: P:MonoMyst.Engine.UI.Widgets.CheckBox.SortingOrder
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.SortingOrder
+  nameWithType: CheckBox.SortingOrder
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.SortingOrder*
+  name: SortingOrder
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_SortingOrder_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.SortingOrder
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.SortingOrder
+  nameWithType: CheckBox.SortingOrder
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.Text
+  name: Text
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_Text
+  commentId: P:MonoMyst.Engine.UI.Widgets.CheckBox.Text
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.Text
+  nameWithType: CheckBox.Text
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.Text*
+  name: Text
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_Text_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.Text
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.Text
+  nameWithType: CheckBox.Text
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.TextColor
+  name: TextColor
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_TextColor
+  commentId: P:MonoMyst.Engine.UI.Widgets.CheckBox.TextColor
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.TextColor
+  nameWithType: CheckBox.TextColor
+- uid: MonoMyst.Engine.UI.Widgets.CheckBox.TextColor*
+  name: TextColor
+  href: api/MonoMyst.Engine.UI.Widgets.CheckBox.html#MonoMyst_Engine_UI_Widgets_CheckBox_TextColor_
+  commentId: Overload:MonoMyst.Engine.UI.Widgets.CheckBox.TextColor
+  isSpec: "True"
+  fullName: MonoMyst.Engine.UI.Widgets.CheckBox.TextColor
+  nameWithType: CheckBox.TextColor
 - uid: MonoMyst.Engine.UI.Widgets.Panel
   name: Panel
   href: api/MonoMyst.Engine.UI.Widgets.Panel.html

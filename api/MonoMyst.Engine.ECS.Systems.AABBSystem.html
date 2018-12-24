@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class SpriteComponent
+    <title>Class AABBSystem
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class SpriteComponent
+    <meta name="title" content="Class AABBSystem
    ">
     <meta name="generator" content="docfx 2.40.6.0">
     
@@ -68,24 +68,39 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent">
+            <article class="content wrap" id="_content" data-uid="MonoMyst.Engine.ECS.Systems.AABBSystem">
   
   
-  <h1 id="MonoMyst_Engine_ECS_Components_SpriteComponent" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent" class="text-break">Class SpriteComponent
+  <h1 id="MonoMyst_Engine_ECS_Systems_AABBSystem" data-uid="MonoMyst.Engine.ECS.Systems.AABBSystem" class="text-break">Class AABBSystem
   </h1>
-  <div class="markdown level0 summary"><p>Holds data necessary for rendering a sprite.</p>
-</div>
+  <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><a class="xref" href="MonoMyst.Engine.ECS.Component.html">Component</a></div>
-    <div class="level2"><span class="xref">SpriteComponent</span></div>
+    <div class="level1"><a class="xref" href="MonoMyst.Engine.MObject.html">MObject</a></div>
+    <div class="level2"><a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html">ComponentSystem</a></div>
+    <div class="level3"><span class="xref">AABBSystem</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
     <div>
-      <a class="xref" href="MonoMyst.Engine.ECS.Component.html#MonoMyst_Engine_ECS_Component_Entity">Component.Entity</a>
+      <a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_CompatibleTypes">ComponentSystem.CompatibleTypes</a>
+    </div>
+    <div>
+      <a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_Entities">ComponentSystem.Entities</a>
+    </div>
+    <div>
+      <a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_Initialize">ComponentSystem.Initialize()</a>
+    </div>
+    <div>
+      <a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_Update_System_Single_">ComponentSystem.Update(Single)</a>
+    </div>
+    <div>
+      <a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_EntitiesChanged_MonoMyst_Engine_ECS_EntityPool_MonoMyst_Engine_ECS_Entity_">ComponentSystem.EntitiesChanged(EntityPool, Entity)</a>
+    </div>
+    <div>
+      <a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_GetCompatibleEntities_System_Collections_Generic_IEnumerable_MonoMyst_Engine_ECS_Entity__">ComponentSystem.GetCompatibleEntities(IEnumerable&lt;Entity&gt;)</a>
     </div>
     <div>
       <span class="xref">System.Object.Equals(System.Object)</span>
@@ -109,104 +124,82 @@
       <span class="xref">System.Object.ToString()</span>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="MonoMyst.Engine.ECS.Components.html">MonoMyst.Engine.ECS.Components</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MonoMyst.Engine.ECS.Systems.html">MonoMyst.Engine.ECS.Systems</a></h6>
   <h6><strong>Assembly</strong>: MonoMyst.Engine.dll</h6>
-  <h5 id="MonoMyst_Engine_ECS_Components_SpriteComponent_syntax">Syntax</h5>
+  <h5 id="MonoMyst_Engine_ECS_Systems_AABBSystem_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class SpriteComponent : Component</code></pre>
+    <pre><code class="lang-csharp hljs">public class AABBSystem : ComponentSystem</code></pre>
   </div>
-  <h3 id="properties">Properties
+  <h3 id="constructors">Constructors
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/89657d05a0393373cf7855d20cf81b396080d461/apiSpec/new?filename=MonoMyst_Engine_ECS_Components_SpriteComponent_Color.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.Components.SpriteComponent.Color%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/89657d05a0393373cf7855d20cf81b396080d461/apiSpec/new?filename=MonoMyst_Engine_ECS_Systems_AABBSystem__ctor_MonoMyst_Engine_ECS_EntityPool_.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.Systems.AABBSystem.%23ctor(MonoMyst.Engine.ECS.EntityPool)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/89657d05a0393373cf7855d20cf81b396080d461/MonoMyst.Engine/ECS/Components/SpriteComponent.cs/#L12">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/89657d05a0393373cf7855d20cf81b396080d461/MonoMyst.Engine/ECS/Systems/AABBSystem.cs/#L14">View Source</a>
   </span>
-  <a id="MonoMyst_Engine_ECS_Components_SpriteComponent_Color_" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent.Color*"></a>
-  <h4 id="MonoMyst_Engine_ECS_Components_SpriteComponent_Color" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent.Color">Color</h4>
+  <a id="MonoMyst_Engine_ECS_Systems_AABBSystem__ctor_" data-uid="MonoMyst.Engine.ECS.Systems.AABBSystem.#ctor*"></a>
+  <h4 id="MonoMyst_Engine_ECS_Systems_AABBSystem__ctor_MonoMyst_Engine_ECS_EntityPool_" data-uid="MonoMyst.Engine.ECS.Systems.AABBSystem.#ctor(MonoMyst.Engine.ECS.EntityPool)">AABBSystem(EntityPool)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Color Color { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public AABBSystem(EntityPool entities)</code></pre>
   </div>
-  <h5 class="propertyValue">Property Value</h5>
+  <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
         <th>Type</th>
+        <th>Name</th>
         <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Microsoft.Xna.Framework.Color</span></td>
+        <td><a class="xref" href="MonoMyst.Engine.ECS.EntityPool.html">EntityPool</a></td>
+        <td><span class="parametername">entities</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
+  <h3 id="methods">Methods
+  </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/89657d05a0393373cf7855d20cf81b396080d461/apiSpec/new?filename=MonoMyst_Engine_ECS_Components_SpriteComponent_LayerDepth.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/new/89657d05a0393373cf7855d20cf81b396080d461/apiSpec/new?filename=MonoMyst_Engine_ECS_Systems_AABBSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.Systems.AABBSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/89657d05a0393373cf7855d20cf81b396080d461/MonoMyst.Engine/ECS/Components/SpriteComponent.cs/#L13">View Source</a>
+    <a href="https://github.com/CodeMyst/MonoMyst/blob/89657d05a0393373cf7855d20cf81b396080d461/MonoMyst.Engine/ECS/Systems/AABBSystem.cs/#L20">View Source</a>
   </span>
-  <a id="MonoMyst_Engine_ECS_Components_SpriteComponent_LayerDepth_" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth*"></a>
-  <h4 id="MonoMyst_Engine_ECS_Components_SpriteComponent_LayerDepth" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent.LayerDepth">LayerDepth</h4>
+  <a id="MonoMyst_Engine_ECS_Systems_AABBSystem_Draw_" data-uid="MonoMyst.Engine.ECS.Systems.AABBSystem.Draw*"></a>
+  <h4 id="MonoMyst_Engine_ECS_Systems_AABBSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_" data-uid="MonoMyst.Engine.ECS.Systems.AABBSystem.Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)">Draw(SpriteBatch)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public float LayerDepth { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">protected override void Draw(SpriteBatch spriteBatch)</code></pre>
   </div>
-  <h5 class="propertyValue">Property Value</h5>
+  <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
         <th>Type</th>
+        <th>Name</th>
         <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Single</span></td>
+        <td><span class="xref">Microsoft.Xna.Framework.Graphics.SpriteBatch</span></td>
+        <td><span class="parametername">spriteBatch</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/CodeMyst/MonoMyst/new/89657d05a0393373cf7855d20cf81b396080d461/apiSpec/new?filename=MonoMyst_Engine_ECS_Components_SpriteComponent_Sprite.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.Components.SpriteComponent.Sprite%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/CodeMyst/MonoMyst/blob/89657d05a0393373cf7855d20cf81b396080d461/MonoMyst.Engine/ECS/Components/SpriteComponent.cs/#L11">View Source</a>
-  </span>
-  <a id="MonoMyst_Engine_ECS_Components_SpriteComponent_Sprite_" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent.Sprite*"></a>
-  <h4 id="MonoMyst_Engine_ECS_Components_SpriteComponent_Sprite" data-uid="MonoMyst.Engine.ECS.Components.SpriteComponent.Sprite">Sprite</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Texture2D Sprite { get; set; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">Microsoft.Xna.Framework.Graphics.Texture2D</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="MonoMyst.Engine.ECS.ComponentSystem.html#MonoMyst_Engine_ECS_ComponentSystem_Draw_Microsoft_Xna_Framework_Graphics_SpriteBatch_">ComponentSystem.Draw(SpriteBatch)</a></div>
 </article>
           </div>
           
@@ -215,10 +208,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/CodeMyst/MonoMyst/new/89657d05a0393373cf7855d20cf81b396080d461/apiSpec/new?filename=MonoMyst_Engine_ECS_Components_SpriteComponent.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.Components.SpriteComponent%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/CodeMyst/MonoMyst/new/89657d05a0393373cf7855d20cf81b396080d461/apiSpec/new?filename=MonoMyst_Engine_ECS_Systems_AABBSystem.md&amp;value=---%0Auid%3A%20MonoMyst.Engine.ECS.Systems.AABBSystem%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/CodeMyst/MonoMyst/blob/89657d05a0393373cf7855d20cf81b396080d461/MonoMyst.Engine/ECS/Components/SpriteComponent.cs/#L9" class="contribution-link">View Source</a>
+                    <a href="https://github.com/CodeMyst/MonoMyst/blob/89657d05a0393373cf7855d20cf81b396080d461/MonoMyst.Engine/ECS/Systems/AABBSystem.cs/#L12" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
